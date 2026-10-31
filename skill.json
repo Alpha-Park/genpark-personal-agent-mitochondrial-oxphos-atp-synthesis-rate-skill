@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-mitochondrial-oxphos-atp-synthesis-rate-skill",
+  "version": "1.0.0",
+  "title": "Mitochondrial OXPHOS ATP Synthesis & Bioenergetic Health Skill",
+  "category": "Personal Agent (Bio / Cellular Bioenergetics)",
+  "description": "Calculates mitochondrial State-3 vs State-4 respiration, Respiratory Control Ratio (RCR), and P/O ratio from respirometry flux, scoring overall cellular Bioenergetic Health Index (BHI).",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "assess_mitochondrial_oxphos_capacity"
+  ],
+  "dependencies": []
+}
